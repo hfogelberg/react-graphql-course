@@ -1,0 +1,19 @@
+{
+  "name": "graphql-redux-course",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "concurrently \"nodemon server.js\" \"json-server --watch db.json\""
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.13.1",
+    "json-server": "^0.12.1"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.1"
+  }
+}

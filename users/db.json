@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Jack",
+      "age": 23,
+      "companyId": "1"
+    },
+    {
+      "id": "42",
+      "firstName": "Jill",
+      "age": 28,
+      "companyId": "1"
+    },
+    {
+      "id": "99",
+      "firstName": "Darth Vadar",
+      "age": 56,
+      "companyId": "2"
+    },
+    {
+      "id": "18",
+      "firstName": "Luke Skywalker",
+      "age": 42,
+      "companyId": "1"
+    },
+    {
+      "id": "26",
+      "firstName": "Sofie",
+      "age": 31,
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iPhone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Android"
+    }
+  ]
+}
